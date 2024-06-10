@@ -15,4 +15,6 @@ animation of a spider crawling.
 ## Output : 
 Once the crawl is done, the user will be notified and given the number of links accessed.
 There will be another question asking if the user would like to see the list of visited links, you can respond
-yes or no. Finally, this is a goodbye message from your spider. Here's a ![example.](https://github.com/nicolesgetaway/WebSpider/assets/133280277/2de7ef10-28a6-4dbf-905a-b48d23610b76)
+yes or no. Finally, this is a goodbye message from your spider. Here's a example. 
+
+![Sample output](https://github.com/nicolesgetaway/WebSpider/assets/133280277/2de7ef10-28a6-4dbf-905a-b48d23610b76)
