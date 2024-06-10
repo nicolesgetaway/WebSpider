@@ -11,7 +11,8 @@ should the spider search (you are able to input a number between 1 and 3, howeve
 would recommend 1 to minimize runtime), and the initial website the spider should start the scan at. The
 WebCrawler object will take these parameters and will begin the search. During the search, there is an
 animation of a spider crawling.
+
 ## Output : 
 Once the crawl is done, the user will be notified and given the number of links accessed.
 There will be another question asking if the user would like to see the list of visited links, you can respond
-yes or no. Finally, this is a goodbye message from your spider.
+yes or no. Finally, this is a goodbye message from your spider. Here's a ![example.](https://github.com/nicolesgetaway/WebSpider/assets/133280277/2de7ef10-28a6-4dbf-905a-b48d23610b76)
